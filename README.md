@@ -41,4 +41,4 @@ Includes example Jupyter notebook to push data to MongoDB, and a [mongo-express]
 ## Online retail analysis with pyspark
 - The `test_report` notebook gives an answer to an evaluation assignment test based on an analysis of an online retail with pyspark.
 
-- The notebook can be viewed on nbviewer: [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/mnassrib/online-retail-analysis-with-pyspark/blob/master/test_report.ipynb)
+- The notebook can be viewed on nbviewer: [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://github.com/mnassrib/online-retail-analysis-with-pyspark/blob/master/jupyter/notebooks/test_report.ipynb)
