@@ -14,10 +14,7 @@ Includes example Jupyter notebook to push data to MongoDB, and a [mongo-express]
 
     `docker-compose -p jupyter up`
 
-    **NOTE** 
-    - three connected container images will be created: `jupyter_pyspark_mongodb`, `mongo` and `mongo-express`
-
-    - there's a unique token you'll need to access the Jupyter notebook server.
+    **NOTE** - three connected container images will be created: `jupyter_pyspark_mongodb`, `mongo` and `mongo-express`. - there's a unique token you'll need to access the Jupyter notebook server.
 
     The docker-compose terminal will print out a self-authenticating URL, which looks like:
 
