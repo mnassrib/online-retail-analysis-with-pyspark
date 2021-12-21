@@ -28,11 +28,11 @@ Includes example Jupyter notebook to push data to MongoDB, and a [mongo-express]
 
 - Jupyter server running at [http://localhost:8888](http://localhost:8888)
 
-- Run the `test_report.ipynb` file saved on Jupyter server at [http://localhost:8888](http://localhost:8888) to create the `online_retail` database in MongoDB, the `retail` record and to use these data with PySpark 
+- Run the `test_report.ipynb` file saved on Jupyter server at [http://localhost:8888](http://localhost:8888) to create the `online_retail` database in MongoDB, the `retail` collection and to use these data with PySpark 
 
 ## Notes
 
-- This configuration is not optimized for size. The `jupyter/pyspark-notebook` has a footprint of 3.39 GB - you could substitute or change statements in `jupyter/Dockerfile`.
+- This configuration has a footprint of 3.39 GB - you could substitute or change statements in `jupyter/Dockerfile`.
 
 - You may run a command inside the `jupyter` docker container as the root user with the following command:
 
