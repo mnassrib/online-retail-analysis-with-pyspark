@@ -28,7 +28,7 @@ Includes example Jupyter notebook to push data to MongoDB, and a [mongo-express]
 
 - Jupyter server running at [http://localhost:8888](http://localhost:8888)
 
-- Run the `test_report.ipynb` file saved on Jupyter server at [http://localhost:8888](http://localhost:8888) to create the `online_retail` database in MongoDB, the `retail` collection and to use these data with PySpark 
+- Run the `test_report.ipynb` file saved on Jupyter server at [http://localhost:8888/notebooks/test_report.ipynb](http://localhost:8888/notebooks/test_report.ipynb) to create the `online_retail` database in MongoDB, the `retail` collection and to use these data with PySpark 
 
 ## Notes
 
