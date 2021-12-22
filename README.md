@@ -39,6 +39,6 @@ Includes example Jupyter notebook to push data to MongoDB, and a [mongo-express]
   `docker-compose run --user="root" jupyter pip install pandas`
 
 ## Online retail analysis with pyspark
-- The `test_report` notebook gives an answer to an evaluation assignment test based on an analysis of an online retail with pyspark.
+- The `test_report.ipynb` notebook exposes a response to a benchmark test in order to efficiently analyze online retail data in a pyspark-based distributed manner.
 
 - The notebook can be viewed on nbviewer: [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/mnassrib/online-retail-analysis-with-pyspark/blob/master/jupyter/notebooks/test_report.ipynb)
